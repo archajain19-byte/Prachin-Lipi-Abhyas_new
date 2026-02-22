@@ -1,5 +1,6 @@
 streamlit
 streamlit-autorefresh
 Pillow
-Pandas
+pandas
 streamlit-drawable-canvas==0.9.3
+
